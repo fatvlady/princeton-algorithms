@@ -5,7 +5,9 @@
       <map />
     </option>
   </component>
-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../production/boggle" />
+    <output-test url="file://$MODULE_DIR$/../test/boggle" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
