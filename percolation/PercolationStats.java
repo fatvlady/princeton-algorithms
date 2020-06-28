@@ -7,7 +7,6 @@
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;
-import java.lang.intrument.Instrumentation;
 
 public class PercolationStats {
     private static final double CONFIDENCE_95 = 1.96;
@@ -60,7 +59,6 @@ public class PercolationStats {
     }
 
     public static void main(String[] args) {
-        Instrumentation.getObjectSize()
         // n-by-n percolation system (read from command-line, default = 10)
         int n = 20;
         int t = 1000;

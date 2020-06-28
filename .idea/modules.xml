@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/8puzzle/8puzzle.iml" filepath="$PROJECT_DIR$/8puzzle/8puzzle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseball/baseball.iml" filepath="$PROJECT_DIR$/baseball/baseball.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boggle/boggle.iml" filepath="$PROJECT_DIR$/boggle/boggle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/burrows/burrows.iml" filepath="$PROJECT_DIR$/burrows/burrows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collinear/collinear.iml" filepath="$PROJECT_DIR$/collinear/collinear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kdtree/kdtree.iml" filepath="$PROJECT_DIR$/kdtree/kdtree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/percolation/percolation.iml" filepath="$PROJECT_DIR$/percolation/percolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queues/queues.iml" filepath="$PROJECT_DIR$/queues/queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seam/seam.iml" filepath="$PROJECT_DIR$/seam/seam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wordnet/wordnet.iml" filepath="$PROJECT_DIR$/wordnet/wordnet.iml" />
+    </modules>
+  </component>
+</project>

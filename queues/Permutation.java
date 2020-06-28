@@ -16,4 +16,3 @@ public class Permutation {
         }
     }
 }
-89
