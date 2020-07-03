@@ -2,12 +2,12 @@
   <library name="algs4">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/.lift/algs4.jar!/" />
-      <root url="jar://$PROJECT_DIR$/.lift/checkstyle-lift.jar!/" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="https://algs4.cs.princeton.edu/code/javadoc" />
+    </JAVADOC>
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/.lift/algs4.jar!/" />
-      <root url="jar://$PROJECT_DIR$/.lift/checkstyle-lift.jar!/" />
     </SOURCES>
   </library>
 </component>
