@@ -6,7 +6,7 @@
     </option>
   </component>
   <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/../production/seam" />
+    <output url="file://$MODULE_DIR$/../production" />
     <output-test url="file://$MODULE_DIR$/../test/seam" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
